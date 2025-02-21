@@ -405,7 +405,7 @@
         "repo": "https://github.com/zouyonghe/astrbot_plugin_opds"
     },
     "astrbot_plugin_memorybank": {
-        "desc"："为bot实现永续记忆",
+        "desc": "为bot实现永续记忆的插件",
         "author": "Arain",
         "repo": "https://github.com/Arain119/Astrbot_MemoryBank"
     }
