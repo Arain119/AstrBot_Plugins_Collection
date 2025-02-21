@@ -403,5 +403,10 @@
         "desc": "基于 OPDS 协议实现电子书搜索下载的插件",
         "author": "buding",
         "repo": "https://github.com/zouyonghe/astrbot_plugin_opds"
+    },
+    "astrbot_plugin_memorybank": {
+       "desc"： "为bot实现永续记忆",
+        "author": "Arain",
+        "repo": "https://github.com/Arain119/Astrbot_MemoryBank"
     }
 }
